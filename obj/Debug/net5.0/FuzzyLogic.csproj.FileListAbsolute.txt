@@ -1,0 +1,12 @@
+/Users/prog/Documents/Projects/VSCode/TestFuzzySystem/FuzzyLogic/bin/Debug/net5.0/FuzzyLogic.deps.json
+/Users/prog/Documents/Projects/VSCode/TestFuzzySystem/FuzzyLogic/bin/Debug/net5.0/FuzzyLogic.dll
+/Users/prog/Documents/Projects/VSCode/TestFuzzySystem/FuzzyLogic/bin/Debug/net5.0/ref/FuzzyLogic.dll
+/Users/prog/Documents/Projects/VSCode/TestFuzzySystem/FuzzyLogic/bin/Debug/net5.0/FuzzyLogic.pdb
+/Users/prog/Documents/Projects/VSCode/TestFuzzySystem/FuzzyLogic/obj/Debug/net5.0/FuzzyLogic.csprojAssemblyReference.cache
+/Users/prog/Documents/Projects/VSCode/TestFuzzySystem/FuzzyLogic/obj/Debug/net5.0/FuzzyLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prog/Documents/Projects/VSCode/TestFuzzySystem/FuzzyLogic/obj/Debug/net5.0/FuzzyLogic.AssemblyInfoInputs.cache
+/Users/prog/Documents/Projects/VSCode/TestFuzzySystem/FuzzyLogic/obj/Debug/net5.0/FuzzyLogic.AssemblyInfo.cs
+/Users/prog/Documents/Projects/VSCode/TestFuzzySystem/FuzzyLogic/obj/Debug/net5.0/FuzzyLogic.csproj.CoreCompileInputs.cache
+/Users/prog/Documents/Projects/VSCode/TestFuzzySystem/FuzzyLogic/obj/Debug/net5.0/FuzzyLogic.dll
+/Users/prog/Documents/Projects/VSCode/TestFuzzySystem/FuzzyLogic/obj/Debug/net5.0/ref/FuzzyLogic.dll
+/Users/prog/Documents/Projects/VSCode/TestFuzzySystem/FuzzyLogic/obj/Debug/net5.0/FuzzyLogic.pdb
