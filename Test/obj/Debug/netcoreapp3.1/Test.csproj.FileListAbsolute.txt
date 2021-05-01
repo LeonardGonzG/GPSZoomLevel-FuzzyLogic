@@ -1,0 +1,13 @@
+D:\UCaldas\7 - Sistemas Inteligentes I\CodigosCSharp\FuzzyLogic-GPSZoomLevel\Test\bin\Debug\netcoreapp3.1\Test.exe
+D:\UCaldas\7 - Sistemas Inteligentes I\CodigosCSharp\FuzzyLogic-GPSZoomLevel\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+D:\UCaldas\7 - Sistemas Inteligentes I\CodigosCSharp\FuzzyLogic-GPSZoomLevel\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+D:\UCaldas\7 - Sistemas Inteligentes I\CodigosCSharp\FuzzyLogic-GPSZoomLevel\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+D:\UCaldas\7 - Sistemas Inteligentes I\CodigosCSharp\FuzzyLogic-GPSZoomLevel\Test\bin\Debug\netcoreapp3.1\Test.dll
+D:\UCaldas\7 - Sistemas Inteligentes I\CodigosCSharp\FuzzyLogic-GPSZoomLevel\Test\bin\Debug\netcoreapp3.1\Test.pdb
+D:\UCaldas\7 - Sistemas Inteligentes I\CodigosCSharp\FuzzyLogic-GPSZoomLevel\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+D:\UCaldas\7 - Sistemas Inteligentes I\CodigosCSharp\FuzzyLogic-GPSZoomLevel\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+D:\UCaldas\7 - Sistemas Inteligentes I\CodigosCSharp\FuzzyLogic-GPSZoomLevel\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+D:\UCaldas\7 - Sistemas Inteligentes I\CodigosCSharp\FuzzyLogic-GPSZoomLevel\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+D:\UCaldas\7 - Sistemas Inteligentes I\CodigosCSharp\FuzzyLogic-GPSZoomLevel\Test\obj\Debug\netcoreapp3.1\Test.dll
+D:\UCaldas\7 - Sistemas Inteligentes I\CodigosCSharp\FuzzyLogic-GPSZoomLevel\Test\obj\Debug\netcoreapp3.1\Test.pdb
+D:\UCaldas\7 - Sistemas Inteligentes I\CodigosCSharp\FuzzyLogic-GPSZoomLevel\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
