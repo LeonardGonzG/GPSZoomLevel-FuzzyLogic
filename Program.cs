@@ -58,12 +58,12 @@ namespace Test
             system.addFuzzyRule("IF Distancia IS Grande AND Velocidad IS MuyRapida THEN Zoom IS Bajo");
             
 
- /* */        //CASO PRUEBA 1
+ /*         //CASO PRUEBA 1
             system.SetInputVariable(distancia, 70.0);
             system.SetInputVariable(velocidad, 35.0);
             Console.WriteLine("\n"+"CASO PRUEBA 1--> Distancia 70 m,Velocidad 35 km/h "+  "\n" +"Resultado: "+system.Solve()+ "\n");
 
- /*           //CASO PRUEBA 2
+            //CASO PRUEBA 2
             system.SetInputVariable(distancia, 70.0);
             system.SetInputVariable(velocidad, 25.0);
             Console.WriteLine("\n"+"CASO PRUEBA 2--> Distancia 70 m,Velocidad 25 km/h "+  "\n" +"Resultado: "+system.Solve()+ "\n");
@@ -77,12 +77,12 @@ namespace Test
             system.SetInputVariable(distancia, 110.0);
             system.SetInputVariable(velocidad, 100.0);
             Console.WriteLine("\n"+"CASO PRUEBA 4--> Distancia 110 m,Velocidad 100 km/h "+  "\n" +"Resultado: "+system.Solve()+ "\n");
-
+*/
             //CASO PRUEBA 5
             system.SetInputVariable(distancia, 160.0);
             system.SetInputVariable(velocidad, 45.0);
             Console.WriteLine("\n"+"CASO PRUEBA 5--> Distancia 160 m,Velocidad 45 km/h "+  "\n" +"Resultado: "+system.Solve()+ "\n");
-*/
+/**/
         }
     }
 }
